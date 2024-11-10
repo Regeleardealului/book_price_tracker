@@ -1,0 +1,5 @@
+# Here is a template for how your .env file should look.
+
+sender_email=yourprimaryemail@gmail.com
+password=yourpassword
+receiver_email=yoursecondaryemail@gmail.com
